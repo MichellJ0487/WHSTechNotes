@@ -8,3 +8,6 @@ You should follow instructions because if You don't you can not Know What do and
 Today we are listing the 5 P's of wagner core values and pick one write a a paragraph about.The 5 p's are polite,productive,prompt,positive,and prepared.Being prepared is being ready for everything like bringing a pencil for class and having your tools and mindset ready.
 # September 13, 2024
 Today in class we wrote the down the 4 C's of wagner core values and had to pick one to write a paragraph about. The 4 C's are confident,courageous,consistent,and communicate.Being confident is not being scared to answer and not being scared to be wrong.
+# September 18, 2024
+My challenges of making the maze was working with someone that tried to take all the credit and reaped the paper,but I over came it by doing it myself
+# September 19, 2024
