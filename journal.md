@@ -11,3 +11,6 @@ Today in class we wrote the down the 4 C's of wagner core values and had to pick
 # September 18, 2024
 My challenges of making the maze was working with someone that tried to take all the credit and reaped the paper,but I over came it by doing it myself
 # September 19, 2024
+I aproached the maze with the mind set of this is gonna be easy and it was just that,my adjustments was just right.
+# September 27, 2024
+Python is way more advance than doing sphero block.There is more you can code and do with python rather than working with sphero.You can get more creative and have more fun when coding with python,altrought,coding with sphero block is eqasier,coding with python is more benifical.Coding challenges were easier to complete with sphero block.
