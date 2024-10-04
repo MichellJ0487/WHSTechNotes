@@ -13,4 +13,6 @@ My challenges of making the maze was working with someone that tried to take all
 # September 19, 2024
 I aproached the maze with the mind set of this is gonna be easy and it was just that,my adjustments was just right.
 # September 27, 2024
-Python is way more advance than doing sphero block.There is more you can code and do with python rather than working with sphero.You can get more creative and have more fun when coding with python,altrought,coding with sphero block is eqasier,coding with python is more benifical.Coding challenges were easier to complete with sphero block.
+Python is way more advance than doing sphero block.There is more you can code and do with python rather than working with sphero.You can get more creative and have more fun when coding with python,altrought,coding with sphero block is easier,coding with python is more benifical.Coding challenges were easier to complete with sphero block.
+# October 4, 2024
+My daily routine and activites that computer science plays a role in is my phone and games on my school chrombook.I have to  block apps to play and watch videos that your not able to when using it like roblox other games if I didnt have computer science I wouldn't know how to do it and would be limited to what I watch and play at school.
