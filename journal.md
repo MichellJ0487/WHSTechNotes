@@ -19,3 +19,7 @@ My daily routine and activites that computer science plays a role in is my phone
 # October 8, 2024
 Computer scientist like to develop,design,and and analyze software and hardware systems that power the digital world.They work in very diverse fields that includes software enginneering,data science,and cyber security,artificial intelligence,and way more.With a strong foundation in programming launguages,algorithms,and data structures,computer scientists posses the skill to create innovative solutions for complex challenges.
 # October 15, 2024
+Learning to code is incresingly valuable across various industries,as it equips individuals with essential problem-solving skills that are applicable in any professional context.
+# October 21, 2024
+Artificial Intelligence(AI)has the potential to significantly enhance out lives across various sectors,including healthcare,education, and transportation.In healthcare,AI algorithms can analyze vast amounts of madical data to identify patterns and predict patient outcomes,leading to more accurate diagnoses and personalized treatment plans.
+# October 28, 2024
