@@ -24,3 +24,5 @@ Learning to code is incresingly valuable across various industries,as it equips 
 Artificial Intelligence(AI)has the potential to significantly enhance out lives across various sectors,including healthcare,education, and transportation.In healthcare,AI algorithms can analyze vast amounts of madical data to identify patterns and predict patient outcomes,leading to more accurate diagnoses and personalized treatment plans.
 # October 28, 2024
 The inpact of computer science and technology on the election process is profound,shaping both the way elections are conducted and manner in which voters engage with the electoral system.
+# November 4, 2024
+When posting on the internet you have to be careful about what information you giving out aboout yourself and others. People find out anything from the internet so when you post just make sure to be mindful. When it comes to balancing what you put on the internet, dont post things too personal. You can post things that are relateable or something you did maybe somewhere you were but keep it simple. When I post something that maybe I would've thought was too personal, I just go back and delete it. 
