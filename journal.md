@@ -30,3 +30,5 @@ When posting on the internet you have to be careful about what information you g
 Technology play effect in the nba by them editing to show the scoreboard,effects,and sounds.
 # November 19, 2024
 Technology has significantly transformed the food industry,making food more accessible and affordable,particularly during the holiday season through advancements in farming practices like precision agriculture,efficient distribution networks,and online shopping platforms
+# December 2,2024
+Artificial intelligence(AI) continues to shape the way we live and work.This week,research one recent development in AI or another emerging technology(e.g.quantum computing,renewable energy tech,AR/VR, etc.).Summarize what you learned and share your thoughts on how it could impact society,your future career,or daily life.To provide a well-rounded response,let’s consider the examples of artificial intelligence(AI) and machine learning,as these are hot topics in numerous fields technology,healthcare,education,and more.
