@@ -1,4 +1,4 @@
--# September 4, 2024
+# September 4, 2024
 The main sensor for SphereBot is the aim. When you adjust it to face you, you can program the bot from there.two more sensors are the compass and lights
 # September 10, 2024
 Today I created my journal for my computer science class.For me:I should have payed attion so this will be easy for me
@@ -32,3 +32,5 @@ Technology play effect in the nba by them editing to show the scoreboard,effects
 Technology has significantly transformed the food industry,making food more accessible and affordable,particularly during the holiday season through advancements in farming practices like precision agriculture,efficient distribution networks,and online shopping platforms
 # December 2,2024
 Artificial intelligence(AI) continues to shape the way we live and work.This week,research one recent development in AI or another emerging technology(e.g.quantum computing,renewable energy tech,AR/VR, etc.).Summarize what you learned and share your thoughts on how it could impact society,your future career,or daily life.To provide a well-rounded response,let’s consider the examples of artificial intelligence(AI) and machine learning,as these are hot topics in numerous fields technology,healthcare,education,and more.
+# December 9,2024
+The term “brain rot” evokes a vivid image of cognitive decline through overexposure to digital media, suggesting a sense of numbness that often follows hours of scrolling mindlessly through social feeds or binge-watching videos that offer little substance. For me, it encapsulates the feeling of becoming overly saturated with information and entertainment that, while momentarily engaging, fails to enrich my understanding or mental clarity. This year, my relationship with digital media has been a mixed bag; it has provided connection and knowledge, but also moments of stagnation and anxiety, particularly when social media fuels comparison or when news cycles overwhelm my emotional landscape.
