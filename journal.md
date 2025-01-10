@@ -37,6 +37,4 @@ The term “brain rot” evokes a vivid image of cognitive decline through overe
 # December 17,2024
 Yes im looking forward to the brerak because theres no school.
 # January 8, 2025
-### Summary
-
 Reflecting on last semester, I appreciated the collaborative projects and hands-on activities, which enriched my learning experience and allowed for the practical application of concepts. However, the pacing of the lessons could improve, as some topics felt rushed, making it difficult to fully understand complex materials. Looking forward to the new semester, I would like to focus on real-world applications, potentially through a capstone project, and explore new technologies like AI and data analytics. I also seek more interactive experiences, such as workshops and guest speakers.Lastly, I am interested in pursuing certifications in Python and Unity to enhance my skills. Access to study resources, such as online courses and practice exams, as well as guidance from instructors, would be beneficial in preparing for these certifications.
