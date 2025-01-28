@@ -43,8 +43,8 @@ AI presents challenges such as job displacement and skill gaps, it also offers s
 # January 22, 2025
 The potential ban on TikTok in the United States raises significant issues regarding the interplay between government regulation, technology companies, and user rights. Government intervention can lead to positive outcomes, such as enforcing data protection standards that safeguard user privacy, but it can also have negative effects, including stifling innovation and forcing companies to relocate operations to countries with less stringent laws. To address security concerns while operating globally, TikTok could implement robust data governance policies and maintain local data storage solutions.As a means to enhance user privacy, the proposal for a "Data Eraser" feature would empower users to delete their accounts and associated data securely. This feature would reinforce TikTok's commitment to privacy and reduce the necessity for external regulation. The situation emphasizes the importance of data governance, app development ethics, and user empowerment in technology. Developers should integrate these principles into their work, ensuring that technological advancements respect user rights and protect personal data, thus reflecting the lessons learned from the TikTok ban scenario. Concepts explored include data protection regulations, app design methodologies, software ethics, and the critical importance of balancing innovation with user security.
 # January 27,2025
-Name	       Car                  	Mistake
-Jimmy	    Honda Civic	     Left stains on the carpet
-Kayla     	Sierra	          Left the oil cap off
-Bart	     Forester         	Drilled hole in gas tank
-Harrison	   Civic             	No mistake found		
+Name	            Car                  	Mistake
+Jimmy	        Honda Civic	    	Drilled hole in gas tank
+Kayla     	    Sierra	        	Fixed Wrong Problem
+Bart	       Toyota Corolla       Left Stains On Carpet
+Harrison    Subaru Forester	      Left The Oil Cap Off	
